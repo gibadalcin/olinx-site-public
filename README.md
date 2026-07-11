@@ -1,5 +1,3 @@
-# Olinx Site
-
 <p align="center">
   <img src="/olinx-site-showcase.png" alt="Olinx Site - apresentação desktop e mobile" width="100%">
 </p>
@@ -9,6 +7,12 @@ Apresentação pública do **Olinx Site**, projeto institucional desenvolvido pa
 > Este repositório contém apenas a apresentação pública do projeto.  
 > O código-fonte principal permanece privado por conter decisões internas de arquitetura, segurança, banco de dados, fluxo de recrutadores e arquivos sensíveis.
 
+ <p align="right">
+  <a href="https://www.olinx.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20site%20em%20produ%C3%A7%C3%A3o-olinx.com.br-D6AE3D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Acessar Olinx Site em produção">
+  </a>
+</p>
+    
 ---
 
 ## Stack principal
