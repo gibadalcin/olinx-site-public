@@ -10,7 +10,7 @@ O projeto combina identidade editorial, conteúdo bilíngue, responsividade, ace
 
 <p align="right">
   <a href="https://www.olinx.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20site%20em%20produ%C3%A7%C3%A3o-olinx.com.br-C65A00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=102131" alt="Acessar Olinx Site em produção">
+    <img src="about-hero.webp" alt="Acessar Olinx Site em produção">
   </a>
 </p>
 
