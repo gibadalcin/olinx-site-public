@@ -6,7 +6,7 @@ O projeto combina identidade editorial, conteúdo bilíngue, responsividade, ace
 
 <p align="right">
   <a href="https://www.olinx.com.br" target="_blank">
-    <img src="about-hero.webp" alt="Acessar Olinx Site em produção">
+    <img src="home-hero.webp" alt="Acessar Olinx Site em produção">
   </a>
 </p>
 
