@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.olinx.com.br/home/hero-working-laptop.webp" alt="Olinx Digital — tecnologia para resolver necessidades reais" width="100%">
-</p>
-
 # Olinx Site
 
 Apresentação pública do **Olinx Site**, presença institucional da **Olinx Digital** desenvolvida com Next.js, React e TypeScript.
@@ -22,9 +18,19 @@ O projeto combina identidade editorial, conteúdo bilíngue, responsividade, ace
 
 <table>
   <tr>
-    <td width="33%"><img src="https://www.olinx.com.br/about/about-hero.webp" alt="Experiência editorial da página Sobre"></td>
-    <td width="33%"><img src="https://www.olinx.com.br/services/services-dev.webp" alt="Serviços de desenvolvimento da Olinx"></td>
-    <td width="33%"><img src="https://www.olinx.com.br/contact/contact-hero-new.webp" alt="Experiência da página de contato"></td>
+    <td width="33%"><img src="about-hero.webp" alt="Experiência editorial da página Sobre"></td>
+    <td width="33%"><img src="services-hero.webp" alt="Experiência editorial da página Serviços"></td>
+    <td width="33%"><img src="projects-hero.webp" alt="Experiência da página de Projetos"></td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="33%"><img src="contact-hero.webp" alt="Experiência editorial da página de Contato"></td>
+    <td width="33%"><img src="policy.webp" alt="Experiência editorial da página de Privacidade"></td>
+    <td width="33%"><img src="error.webp" alt="Experiência da página de Erros"></td>
   </tr>
 </table>
 
